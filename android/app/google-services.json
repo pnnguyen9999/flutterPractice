@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "795016740861",
+    "firebase_url": "https://carbooking-f155a.firebaseio.com",
+    "project_id": "carbooking-f155a",
+    "storage_bucket": "carbooking-f155a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795016740861:android:722de254d773c758f1a394",
+        "android_client_info": {
+          "package_name": "com.example.carBooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795016740861-7pqk55t4b1rig6vp4n8gu1e4j27em4m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqGZWuWsQBrQELj9xCiDz5Zmh_KXPibFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795016740861-7pqk55t4b1rig6vp4n8gu1e4j27em4m8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795016740861-44v0vtc1rqaqsrl344pr3ovds4qgs690.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carBooking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
